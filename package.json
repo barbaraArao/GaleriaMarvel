@@ -1,0 +1,37 @@
+{
+  "name": "galeriamarvel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barbaraArao/GaleriaMarvel.git"
+  },
+  "author": "Barbara Arao",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.23.7",
+    "crypto-js": "^3.1.9-1",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-clean": "^0.4.0",
+    "gulp-clean-css": "^3.9.3",
+    "gulp-concat": "^2.6.1",
+    "gulp-deporder": "^1.1.0",
+    "gulp-minify": "^2.1.0",
+    "gulp-plumber": "^1.2.0",
+    "gulp-sass": "^4.0.1",
+    "jquery": "^3.3.1",
+    "sass": "^1.17.3"
+  },
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  },
+  "bugs": {
+    "url": "https://github.com/barbaraArao/GaleriaMarvel/issues"
+  },
+  "homepage": "https://github.com/barbaraArao/GaleriaMarvel#readme"
+}
